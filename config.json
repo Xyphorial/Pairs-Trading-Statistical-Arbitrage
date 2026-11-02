@@ -1,0 +1,10 @@
+{
+  "start": "2015-01-01", "end": "2026-01-01",
+  "formation_end": "2019-12-31", "validation_end": "2022-12-31",
+  "max_pairs": 5, "fdr": 0.10,
+  "commission_bps": 2, "slippage_bps": 3, "borrow_bps_year": 100,
+  "p_thresholds": [0.01, 0.05, 0.10],
+  "lookbacks": [126, 252], "entries": [1.5, 2.0, 2.5],
+  "exits": [0.0, 0.5], "stop_z": [3.5, 4.5], "max_holding": [20, 60],
+  "min_validation_trades": 10
+}

@@ -1,0 +1,6 @@
+{
+  "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
+  "retrieved_date": "2026-10-23",
+  "snapshot_sha256": "678ff143186e0775cc7d71a2b15b46768da011d3b8cb54ffcc04ef140886b70f",
+  "warning": "Current membership snapshot; not historical point-in-time membership. Yahoo adjusted close requested for 2015-01-01 inclusive to 2026-01-01 exclusive."
+}
